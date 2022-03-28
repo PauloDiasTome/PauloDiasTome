@@ -9,8 +9,6 @@
 
 Sou desenvolvedor web apaixonado pelas melhores tecnologias e o mundo da programação. Tenho experiência  em html5, css e javaScript puro, também sei trabalhar com node.js e PHP, gosto de utilizar práticas modernas e trabalhar com um padrão de desenvolvimento organizado.
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloDiasTome&show_icons=true&theme=dracula)
-
 ## Tecnologias que utilizo no meu dia a dia!
 
 <div style="display:inline_block"><br/>
